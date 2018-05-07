@@ -1,1 +1,1 @@
-# mks-screenr-recorder
+# mks-screen-recorder

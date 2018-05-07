@@ -1,0 +1,15 @@
+C:\Users\MUKESH\Documents\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\bin\Release\Screen Recorder.exe
+C:\Users\MUKESH\Documents\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\bin\Release\Screen Recorder.pdb
+C:\Users\MUKESH\Documents\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\bin\Release\Screen Recorder.xml
+C:\Users\MUKESH\Documents\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\MUKESH\Documents\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\MUKESH\Documents\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Release\WindowsApplication1.FrameCap.resources
+C:\Users\MUKESH\Documents\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\MUKESH\Documents\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\MUKESH\Documents\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\MUKESH\Documents\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Release\Screen Recorder.exe
+C:\Users\MUKESH\Documents\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Release\Screen Recorder.xml
+C:\Users\MUKESH\Documents\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Release\Screen Recorder.pdb
+G:\bk c of doc\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Release\Screen Recorder.exe
+G:\bk c of doc\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Release\Screen Recorder.xml
+G:\bk c of doc\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Release\Screen Recorder.pdb

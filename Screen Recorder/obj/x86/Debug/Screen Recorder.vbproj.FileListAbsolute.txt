@@ -1,0 +1,22 @@
+C:\Users\MUKESH\documents\visual studio 2010\Projects\Screen Recorder\Screen Recorder\bin\Debug\Screen Recorder.exe
+C:\Users\MUKESH\documents\visual studio 2010\Projects\Screen Recorder\Screen Recorder\bin\Debug\Screen Recorder.pdb
+C:\Users\MUKESH\documents\visual studio 2010\Projects\Screen Recorder\Screen Recorder\bin\Debug\Screen Recorder.xml
+C:\Users\MUKESH\documents\visual studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MUKESH\documents\visual studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\MUKESH\documents\visual studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\MUKESH\documents\visual studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MUKESH\documents\visual studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MUKESH\documents\visual studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Debug\Screen Recorder.exe
+C:\Users\MUKESH\documents\visual studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Debug\Screen Recorder.xml
+C:\Users\MUKESH\documents\visual studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Debug\Screen Recorder.pdb
+C:\Users\MUKESH\documents\visual studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Debug\WindowsApplication1.Framecap.resources
+G:\bk c of doc\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Debug\Screen Recorder.exe
+G:\bk c of doc\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Debug\Screen Recorder.xml
+G:\bk c of doc\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Debug\Screen Recorder.pdb
+G:\bk c of doc\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\bin\Debug\Screen Recorder.exe
+G:\bk c of doc\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\bin\Debug\Screen Recorder.pdb
+G:\bk c of doc\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\bin\Debug\Screen Recorder.xml
+G:\bk c of doc\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\bk c of doc\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Debug\WindowsApplication1.FrameCap.resources
+G:\bk c of doc\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\bk c of doc\Visual Studio 2010\Projects\Screen Recorder\Screen Recorder\obj\x86\Debug\Screen Recorder.vbproj.GenerateResource.Cache
